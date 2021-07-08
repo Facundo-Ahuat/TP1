@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1625765774 source:c:\users\facundo\desktop\ayed 2021\proyectos\cuadratica\main.cpp
+	<iostream>
+	<math.h>
+	<locale.h>
+
